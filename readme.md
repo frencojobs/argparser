@@ -1,3 +1,6 @@
+Don't use this. Use args package provided by dart officially. This one was built without knowing the existence of it.
+
+---
 # Argparser
 
 Argparser helps you parse command-line arguments and flags easily.
